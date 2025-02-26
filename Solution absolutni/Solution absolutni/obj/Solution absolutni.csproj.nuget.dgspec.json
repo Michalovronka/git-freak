@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\michal.dvorak\\Desktop\\git-freak\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj": {}
+    "C:\\Users\\jan.fuka\\Desktop\\git-freak-michal\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj": {}
   },
   "projects": {
-    "C:\\Users\\michal.dvorak\\Desktop\\git-freak\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj": {
+    "C:\\Users\\jan.fuka\\Desktop\\git-freak-michal\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michal.dvorak\\Desktop\\git-freak\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj",
+        "projectUniqueName": "C:\\Users\\jan.fuka\\Desktop\\git-freak-michal\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj",
         "projectName": "Solution absolutni",
-        "projectPath": "C:\\Users\\michal.dvorak\\Desktop\\git-freak\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj",
-        "packagesPath": "C:\\Users\\michal.dvorak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michal.dvorak\\Desktop\\git-freak\\Solution absolutni\\Solution absolutni\\obj\\",
+        "projectPath": "C:\\Users\\jan.fuka\\Desktop\\git-freak-michal\\Solution absolutni\\Solution absolutni\\Solution absolutni.csproj",
+        "packagesPath": "C:\\Users\\jan.fuka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jan.fuka\\Desktop\\git-freak-michal\\Solution absolutni\\Solution absolutni\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\michal.dvorak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jan.fuka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
